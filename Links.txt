@@ -1,0 +1,8 @@
+# Aupamya
+http://www.programcreek.com/java-api-examples/index.php?api=nl.siegmann.epublib.domain.Book
+http://webdesign.about.com/od/epub/a/build-an-epub.htm
+https://www.w3.org/People/Raggett/tidy/
+http://htmltidy.net/
+http://www.journaldev.com/957/java-zip-example-to-zip-single-file-and-a-directory-recursively`
+http://www.vogella.com/tutorials/Logging/article.html
+http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
